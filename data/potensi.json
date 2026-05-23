@@ -1,0 +1,12 @@
+[
+  {
+    "kategori": "🌊 ZONA MEGATHRUST",
+    "wilayah": "Pantai Barat Sumatera, Selatan Jawa, Bali, Lombok, hingga Utara Papua.",
+    "penjelasan": "Zona tempat lempeng samudra menunjam ke bawah lempeng benua. Zona ini menyimpan energi raksasa yang berpotensi memicu gempa bermagnitudo besar (M > 8.0) dan tsunami dahsyat."
+  },
+  {
+    "kategori": "🌋 SESAR AKTIF (PATAHAN DARAT)",
+    "wilayah": "Sesar Sumatera (Semangko), Sesar Palu-Koro (Sulawesi), Sesar Lembang (Jawa Barat), Sesar Opak (Yogyakarta).",
+    "penjelasan": "Retakan di kerak bumi yang berada di daratan. Meskipun gempanya cenderung berskala lebih kecil dari megathrust, dampaknya bisa sangat merusak karena pusat gempanya berada sangat dekat dengan pemukiman warga."
+  }
+]

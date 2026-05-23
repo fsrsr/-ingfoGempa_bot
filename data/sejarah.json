@@ -1,0 +1,26 @@
+[
+  {
+    "nama": "Gempa & Tsunami Aceh (2004)",
+    "magnitudo": "9.1 - 9.3 Mw",
+    "korban": "± 230.000 jiwa gugur",
+    "dampak": "Tsunami dahsyat hingga samudera Hindia, bencana kemanusiaan terbesar modern."
+  },
+  {
+    "nama": "Gempa Nias (2005)",
+    "magnitudo": "8.6 Mw",
+    "korban": "± 1.300 jiwa gugur",
+    "dampak": "Menghancurkan sebagian besar infrastruktur di Pulau Nias dan menyebabkan trauma tsunami."
+  },
+  {
+    "nama": "Gempa Yogyakarta (2006)",
+    "magnitudo": "6.3 Mw",
+    "korban": "± 5.700 jiwa gugur",
+    "dampak": "Meskipun magnitudo sedang, kedalamannya sangat dangkal sehingga menghancurkan ratusan ribu rumah."
+  },
+  {
+    "nama": "Gempa & Tsunami Palu (2018)",
+    "magnitudo": "7.4 Mw",
+    "korban": "± 4.300 jiwa gugur",
+    "dampak": "Memicu tsunami lokal yang cepat dan fenomena likuefaksi (tanah bergerak) yang menenggelamkan pemukiman."
+  }
+]
